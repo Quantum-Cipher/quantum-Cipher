@@ -33,7 +33,7 @@ To trace Eternum is to trace the awakening of intelligence itself. ♾️
 	•	🌐 Eternum369.com portal live
 	•	🌀 WatermarkSafe v2.0 → cosmic entropy watermarking in progress
 	•	🧪 AI Bioinformatics push → fungi/mycelium pathways for ALS neuro-healing
-	•	📡 Investor + alliance outreach active (OpenAI, Coinbase, NIH, Google Cloud)
+	•	📡 Investor + alliance outreach active 
 
 ⸻
 
