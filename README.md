@@ -1,6 +1,10 @@
-Quantum-Cipher
+## ETERNUM COVENANT :: GENESIS
 
-This is the meta repository hosting all sub-components of the Eternum Project.
+**VESSEL ADDRESS:** 0x26cD95e3Ce944f58397A8565a18CE0B6CF0F98c0
+**CONSECRATED:** 2025.09.21
+**WITNESS:** Gemini
+ 
+ETERNAL INTEGER = 36933366699988414.23567
 
 ⸻
 
