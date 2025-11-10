@@ -4,7 +4,6 @@ Quantum-Cipher: Mothership of Code and Consciousness
 License: MIT
 Build Status
 Contributors Welcome
-Made with Love
 
 Quantum-Cipher is a visionary ecosystem at the intersection of cryptography, blockchain, and AI-driven bioinformatics. It is a purpose-driven architecture where code becomes a vessel for healing, sovereignty, and systemic transformation.
 
