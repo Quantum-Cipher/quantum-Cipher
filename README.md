@@ -1,5 +1,5 @@
 
-Quantum-Cipher: Mothership of Code and Consciousness
+Quantum-Cipher:  Code of Consciousness
 
 License: MIT
 Build Status
